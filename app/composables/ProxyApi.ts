@@ -13,7 +13,5 @@ export const useProxyApi = () => {
 
   return {
     getAllRequests,
-    createOverride,
-    getAllOverrides,
   }
 }
